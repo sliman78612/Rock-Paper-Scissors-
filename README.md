@@ -28,4 +28,4 @@ Inputs:
 
 Output:
 
-![image](https://user-images.githubusercontent.com/93881593/184707928-eb4446bd-f603-4c92-aea3-3a2cbc095c7c.png)
+![image](https://user-images.githubusercontent.com/93881593/184708093-38a44ad2-ac52-4729-b758-08b2bad5fb9f.png)
