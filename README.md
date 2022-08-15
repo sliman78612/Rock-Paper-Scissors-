@@ -19,3 +19,13 @@ Crated file manual_rps.py as a manual rock, paper scissors game where the user t
 ## 
 
 Created file 'camera_rps.py' for the game. Imported the file 'manual_rps.py' to use its functions. Installed the nessisary libraries and dependacies. First the function 'get_prediction' was made to return the users choice by using the keras model loaded in. The input is taken from the players camera. After a 5 second countdown the class with the highest probiblity is returned. This was passed into the imported function 'get_winner' with the previous 'get_computer_choice' to evaulate the winner and increment their score. The play function is looped until a score of 5 is achieved.
+
+Inputs:
+![image](https://user-images.githubusercontent.com/93881593/184707500-42566c4e-3bcd-4865-907e-1ac2184dd8f8.png)
+![image](https://user-images.githubusercontent.com/93881593/184707628-02555853-cc3a-4ebc-bda9-5c191da8674e.png)
+![image](https://user-images.githubusercontent.com/93881593/184707569-b7987eb5-8aad-41e0-a970-cd62241e4098.png)
+![image](https://user-images.githubusercontent.com/93881593/184707890-22ae0e43-eba3-4abf-ac07-e8ce0867045f.png)
+
+Output:
+
+![image](https://user-images.githubusercontent.com/93881593/184707928-eb4446bd-f603-4c92-aea3-3a2cbc095c7c.png)
